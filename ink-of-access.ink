@@ -88,7 +88,7 @@ The current song is:
 === kitchen ===
 Lots of potatoes boiling on the stove! Smells delicious.
 
-There is also an enormous red salmon sitting on a counter, unwatched by any of the busy cooks.
+{not have_salmon: There is also an enormous red salmon sitting on a counter, unwatched by any of the busy cooks.}
 
 There is a door in the corner leading down to the catacombs, but you should explore all the other rooms before going down there. Who knows, maybe you might need something, or several somethings?
 
